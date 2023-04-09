@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hello
+My name is Tom, and I am a new software developer. 
+I am currently working on pre-work for a JavaScript bootcamp.
+It is nice to meet you. 
 
 <!--
 **tkher/tkher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
